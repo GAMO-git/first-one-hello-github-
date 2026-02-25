@@ -1,4 +1,3 @@
-# first-one-hello-github-  
 #include<stdio.h>
 int main()
 {
